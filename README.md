@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
@@ -76,4 +77,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
+## Tree
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
