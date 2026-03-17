@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1895-largest-magic-square](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
+| [1975-maximum-matrix-sum](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3454-separate-squares-ii](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 ## Binary Search
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
+| [1975-maximum-matrix-sum](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+## Greedy
+|  |
+| ------- |
+| [1975-maximum-matrix-sum](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
