@@ -82,10 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
