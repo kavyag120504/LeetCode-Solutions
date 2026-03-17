@@ -31,9 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
