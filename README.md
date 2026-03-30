@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -127,5 +128,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
