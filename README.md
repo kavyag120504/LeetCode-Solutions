@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -130,7 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
