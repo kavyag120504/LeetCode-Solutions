@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0057-insert-interval](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0136-single-number) |
