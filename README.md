@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0731-my-calendar-ii](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0731-my-calendar-ii](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0731-my-calendar-ii/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 <!---LeetCode Topics End-->
