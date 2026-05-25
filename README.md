@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2270-number-of-ways-to-split-array](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3454-separate-squares-ii](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 ## Binary Search
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [1991-find-the-middle-index-in-array](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2270-number-of-ways-to-split-array](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
