@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0567-permutation-in-string](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0567-permutation-in-string](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Counting
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0567-permutation-in-string](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0567-permutation-in-string](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 <!---LeetCode Topics End-->
