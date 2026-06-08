@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2653-sliding-subarray-beauty](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/2653-sliding-subarray-beauty/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2270-number-of-ways-to-split-array](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2653-sliding-subarray-beauty](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/2653-sliding-subarray-beauty/) | Medium |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3454-separate-squares-ii](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 ## Binary Search
@@ -193,4 +195,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2653-sliding-subarray-beauty](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/2653-sliding-subarray-beauty/) | Medium |
 <!---LeetCode Topics End-->
