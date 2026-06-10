@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0731-my-calendar-ii](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0731-my-calendar-ii/) | Medium |
