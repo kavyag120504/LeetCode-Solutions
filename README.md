@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0731-my-calendar-ii](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0948-bag-of-tokens](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0567-permutation-in-string](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0948-bag-of-tokens](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0948-bag-of-tokens](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0948-bag-of-tokens](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
