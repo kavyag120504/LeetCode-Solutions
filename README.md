@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1162-as-far-from-land-as-possible](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0994-rotting-oranges](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1162-as-far-from-land-as-possible](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1162-as-far-from-land-as-possible](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [1162-as-far-from-land-as-possible](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Greedy
