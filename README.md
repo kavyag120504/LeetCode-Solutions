@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1390-four-divisors](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1895-largest-magic-square](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0731-my-calendar-ii](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [3454-separate-squares-ii](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 ## Two Pointers
 | Problem Name | Difficulty |
