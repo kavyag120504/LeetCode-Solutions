@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0347-top-k-frequent-elements](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0567-permutation-in-string](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
 | Problem Name | Difficulty |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0260-single-number-iii](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0645-set-mismatch](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,4 +270,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1095-find-in-mountain-array](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1095-find-in-mountain-array/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
