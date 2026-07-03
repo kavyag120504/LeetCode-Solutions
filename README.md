@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0264-ugly-number-ii](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0567-permutation-in-string](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0264-ugly-number-ii](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0264-ugly-number-ii](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
