@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0948-bag-of-tokens](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0962-maximum-width-ramp](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0567-permutation-in-string](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0948-bag-of-tokens](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0962-maximum-width-ramp/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
