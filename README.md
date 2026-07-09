@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [1019-next-greater-node-in-linked-list](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
 | Problem Name | Difficulty |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1162-as-far-from-land-as-possible](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1162-as-far-from-land-as-possible/) | Medium |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
