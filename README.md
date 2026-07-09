@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0731-my-calendar-ii](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0731-my-calendar-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0948-bag-of-tokens](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
