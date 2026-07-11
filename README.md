@@ -193,12 +193,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1609-even-odd-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1609-even-odd-tree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1162-as-far-from-land-as-possible](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1609-even-odd-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1609-even-odd-tree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1609-even-odd-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/1609-even-odd-tree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
