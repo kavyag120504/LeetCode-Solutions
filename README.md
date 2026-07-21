@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0962-maximum-width-ramp/) | Medium |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0731-my-calendar-ii](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0623-add-one-row-to-tree/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0623-add-one-row-to-tree/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kavyag120504/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0962-maximum-width-ramp/) | Medium |
@@ -351,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/kavyag120504/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
